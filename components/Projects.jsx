@@ -16,11 +16,8 @@ const Project = () => {
           {projectData.map((project) => {
             const { id, imgUrl, projectName, long } = project;
             return (
-              <Slide bottom>
-                <div
-                  key={id}
-                  className=" relative flex mt-2 items-center justify-center h-auto w-full shadow-sm shadow-black rounded-xl p-4 group hover:bg-gradient-to-r from-[#5651e5] to-[#709dff]"
-                >
+              <Slide key={id} bottom>
+                <div className=" relative flex mt-2 items-center justify-center h-auto w-full shadow-sm shadow-black rounded-xl p-4 group hover:bg-gradient-to-r from-[#5651e5] to-[#709dff]">
                   <Image
                     className=" rounded-xl group-hover:opacity-10 "
                     src={imgUrl}
