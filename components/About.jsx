@@ -50,7 +50,7 @@ const About = () => {
             <Image
               className="rounded-xl"
               alt="laptop"
-              src="/../public/assets/laptop.jpg"
+              src="/assets/laptop.jpg"
               width="400"
               height="200"
             />

@@ -54,7 +54,7 @@ const Navbar = () => {
             <Image
               className=" rounded-full shadow-lg shadow-gray-400 p-1 "
               alt="dnyandeo waghunde"
-              src="/../public/assets/my_photo.png"
+              src="/assets/my_photo.png"
               width="50"
               height="50"
             />

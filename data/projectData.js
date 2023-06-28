@@ -1,7 +1,7 @@
 export const projectData = [
     {
         id: 1,
-        imgUrl: "/../public/assets/projects/knowYourWay.png",
+        imgUrl: "/assets/projects/knowYourWay.png",
         projectName: "Know Your Way",
         long: "React",
         description: "This is the final project for HYF Belgium, the purpose of this application is helping people new to Brussels, providing directions and information about the places that surrounds them. When a someone new to brussels arrive the first time they are pretty much confused due to the excessively amount of things such as: Toilets, Transportation, Places of interest, Restaurants, Hospital etc. The platform will include a search bar that will help people filter the specific information they are looking for",
@@ -11,7 +11,7 @@ export const projectData = [
     },
     {
         id: 2,
-        imgUrl: "/../public/assets/projects/hyfRebuild.png",
+        imgUrl: "/assets/projects/hyfRebuild.png",
         projectName: "HYF Rebuild",
         long: "HTML, CSS",
         description: "This is the final project for HYF Belgium, the purpose of this application is helping people new to Brussels, providing directions and information about the places that surrounds them. When a someone new to brussels arrive the first time they are pretty much confused due to the excessively amount of things such as: Toilets, Transportation, Places of interest, Restaurants, Hospital etc. The platform will include a search bar that will help people filter the specific information they are looking for",
@@ -21,7 +21,7 @@ export const projectData = [
     },
     {
         id: 3,
-        imgUrl: "/../public/assets/projects/lurukiRebuild.png",
+        imgUrl: "/assets/projects/lurukiRebuild.png",
         projectName: "Luruki Rebuild",
         long: "HTML, CSS",
         description: "This is the final project for HYF Belgium, the purpose of this application is helping people new to Brussels, providing directions and information about the places that surrounds them. When a someone new to brussels arrive the first time they are pretty much confused due to the excessively amount of things such as: Toilets, Transportation, Places of interest, Restaurants, Hospital etc. The platform will include a search bar that will help people filter the specific information they are looking for",
@@ -31,7 +31,7 @@ export const projectData = [
     },
     {
         id: 4,
-        imgUrl: "/../public/assets/projects/todoList.png",
+        imgUrl: "/assets/projects/todoList.png",
         projectName: "Todo List",
         long: "JavaScript",
         description: "This is the final project for HYF Belgium, the purpose of this application is helping people new to Brussels, providing directions and information about the places that surrounds them. When a someone new to brussels arrive the first time they are pretty much confused due to the excessively amount of things such as: Toilets, Transportation, Places of interest, Restaurants, Hospital etc. The platform will include a search bar that will help people filter the specific information they are looking for",
